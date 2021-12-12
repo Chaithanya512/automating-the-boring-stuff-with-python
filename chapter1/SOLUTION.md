@@ -22,11 +22,7 @@ expression is a combination of operators which settles to single value where as 
 
  ## Question-6
  It pretty much do nothing to the statement ```bacon = 20```. The variable still contain 20, because we are not assigning the variable again.
->>> bacon = 20
->>> bacon + 1
-21
->>> bacon
-20
+
 
 ##  Question-7
 ```'spam' + 'spamspam'``` will return 'spamspamspam'
